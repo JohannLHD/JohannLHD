@@ -12,8 +12,7 @@
 <p> - 🎓 &nbsp; 2016, Grad from ENSIMAG, Grenoble INP - MS in computer science </p>
 <p> - 🌱 &nbsp; Write JS, Python, C++ </p>
 <p> - ✍️ &nbsp; I love learning new technologies. Currently learning Next.js on Udemy </p>
-<p> -  &nbsp; I play piano since I am 5 years old </p>
-
+<p> - ✍️ &nbsp; I play piano since I am 5 years old </p>
 <br>
 </br>
 <h3> 🛠 Tech Stack</h3>
