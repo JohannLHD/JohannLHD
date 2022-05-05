@@ -23,7 +23,7 @@
 <br>
 </br>
 <h3> 💻 My Favorite projects</h3>
-- 💻 [QKart - A full stack Ecommerce portal, fully tested and developed](https://github.com/JohannLHD/Qkart-Frontend/tree/master)
+- 💻 [QKart - A full stack Ecommerce portal, fully tested and developed] <a href = "https://github.com/JohannLHD/Qkart-Frontend/tree/master">Demo Link</a>
 <br>
 </br>
 
