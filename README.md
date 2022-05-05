@@ -23,7 +23,7 @@
 
   &nbsp; 🌱 &nbsp; Write JS, Python, C++ </p>
 
-  &nbsp; ✍️ &nbsp; I love learning new technologies. Currently learning Next.js on Udemy 
+  &nbsp; ✍️ &nbsp; I love learning new technologies. Currently learning Next.js on Udemy <a href = "https://www.udemy.com/course/complete-nextjs-developer-zero-to-mastery/learn/lecture/26545448?start=15#overview">Next.js course</a>
 
   &nbsp; ✍️ &nbsp; I play piano since I am 5 years old 
 <br>
