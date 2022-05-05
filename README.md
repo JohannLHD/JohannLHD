@@ -24,6 +24,7 @@
 </br>
 <h3> 💻 My Favorite projects</h3>
 - 💻 [QKart - A full stack Ecommerce portal, fully tested and developed](https://github.com/JohannLHD/Qkart-Frontend/tree/master)
-
+<br>
+</br>
 
 
