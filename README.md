@@ -32,7 +32,7 @@
 
 - 💻 [QKart - A full stack Ecommerce portal, fully tested and developed] <a href = "https://github.com/JohannLHD/Qkart-Frontend/tree/master">Link to github Repo</a>
 
-- 💻 [QKart - Focus on backend development, still under development] <a href = "https://github.com/JohannLHD/qkart-backend">Link to github Repo</a>
+- 💻 [E-commerce-App - Focus on backend development, still under development] <a href = "https://github.com/JohannLHD/qkart-backend">Link to github Repo</a>
 
 <br>
 </br>
