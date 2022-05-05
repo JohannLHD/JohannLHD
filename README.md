@@ -11,8 +11,8 @@
 - 🌐 &nbsp; NodeJS | Express
 - 💻 &nbsp; Git | Postman | Figma
 - 🛢 &nbsp; MongoDB | Postgres | MySQL | Firebase
-
-
+<br>
+</br>
 <h3> 👨🏻‍💻 About Me </h3>
 <p> - 🔭 &nbsp; Experienced with : React, NodeJS </p>
 <p> - 🤔 &nbsp; Fullstack Software engineer </p>
@@ -20,8 +20,6 @@
 <p> - 🌱 &nbsp; Write JS, Python, C++ </p>
 <p> - ✍️ &nbsp; I love learning new technologies. Currently learning Next.js on Udemy </p>
 <p> - ✍️ &nbsp; I play piano since I am 5 years old </p>
-
-
 <br>
 </br>
 <h3> 💻 My Favorite projects</h3>
