@@ -7,19 +7,25 @@
  </p>
  
  <h3> 🛠 Tech Stack</h3>
-- 💻 &nbsp; React | Bootstrap | SASS
-- 🌐 &nbsp; NodeJS | Express
-- 💻 &nbsp; Git | Postman | Figma
-- 🛢 &nbsp; MongoDB | Postgres | MySQL | Firebase
+ 💻 &nbsp; React | Bootstrap | SASS
+ 🌐 &nbsp; NodeJS | Express
+ 💻 &nbsp; Git | Postman | Figma
+ 🛢 &nbsp; MongoDB | Postgres | MySQL | Firebase
 <br>
 </br>
 <h3> 👨🏻‍💻 About Me </h3>
-<p> - 🔭 &nbsp; Experienced with : React, NodeJS </p>
-<p> - 🤔 &nbsp; Fullstack Software engineer </p>
-<p> - 🎓 &nbsp; 2016, Grad from ENSIMAG, Grenoble INP - MS in computer science </p>
-<p> - 🌱 &nbsp; Write JS, Python, C++ </p>
-<p> - ✍️ &nbsp; I love learning new technologies. Currently learning Next.js on Udemy </p>
-<p> - ✍️ &nbsp; I play piano since I am 5 years old </p>
+
+  &nbsp;🔭 &nbsp; Experienced with : React, NodeJS 
+
+  &nbsp; 🤔 &nbsp; Fullstack Software engineer 
+
+  &nbsp; 🎓 &nbsp; 2016, Grad from ENSIMAG, Grenoble INP - MS in computer science 
+
+  &nbsp; 🌱 &nbsp; Write JS, Python, C++ </p>
+
+  &nbsp; ✍️ &nbsp; I love learning new technologies. Currently learning Next.js on Udemy 
+
+  &nbsp; ✍️ &nbsp; I play piano since I am 5 years old 
 <br>
 </br>
 <h3> 💻 My Favorite projects</h3>
