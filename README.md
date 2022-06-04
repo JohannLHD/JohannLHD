@@ -19,7 +19,7 @@
 
   &nbsp; 🤔 &nbsp; Fullstack Software engineer 
 
-  &nbsp; 🎓 &nbsp; 2016, Grad from ENSIMAG, Grenoble INP - MS in computer science 
+  &nbsp; 🎓 &nbsp; 2017, Grad from ENSIMAG, Grenoble INP - MS in computer science 
 
   &nbsp; 🌱 &nbsp; Write JS, Python, C++ </p>
 
